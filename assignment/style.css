@@ -4,7 +4,7 @@ header {
 }
 /* Add a fun background color to the main element */
 main {
-    background-color: pink
+    background-color: whitesmoke
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -12,8 +12,11 @@ h1 {
 }
 /* Make your p tag a different color and italic */
 p {
-    color: mediumseagreen;
+    color: brown;
     font-style:italic;
+}
+main {
+    color: black
 }
 /* Put a border around your image */
 img {
@@ -31,7 +34,7 @@ ul {
 }
 /* Add a background color to the footer element */
 Footer {
-    background-color: blueviolet;
+    background-color: aquamarine;
     text-align: center;
 }
 .flex-container {
